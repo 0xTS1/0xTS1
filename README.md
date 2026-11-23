@@ -20,15 +20,7 @@
 
 ```bash
 $ whoami
-> 0xTS1
-
-$ cat about.txt
-> Founder @ whitesecurity.id
-> Cybersecurity practitioner focused on offensive security,
-> penetration testing, and building safer systems.
-
-$ echo $MISSION
-> "Break it. Understand it. Secure it."
+> gue bisa sendiri
 ```
 
 ---
