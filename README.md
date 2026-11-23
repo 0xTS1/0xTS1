@@ -54,6 +54,21 @@ $ echo $MISSION
 
 ---
 
+## `~/stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=0xTS1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=36BCF7&icon_color=36BCF7&bg_color=0D1117&text_color=c9d1d9" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xTS1&layout=compact&hide_border=true&theme=tokyonight&title_color=36BCF7&bg_color=0D1117&text_color=c9d1d9" alt="top langs"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xTS1&hide_border=true&theme=tokyonight&background=0D1117&ring=36BCF7&fire=E11D48&currStreakLabel=36BCF7" alt="streak"/>
+
+</div>
+
+---
+
 ## `~/company`
 
 <table>
