@@ -81,6 +81,20 @@ and fix what attackers would exploit first.
 
 ---
 
+## `~/lovelife` 💕
+
+<div align="center">
+
+<img src="assets/dilla.svg" alt="taken by Dilla" width="420"/>
+
+![Status](https://img.shields.io/badge/relationship-taken%20by%20Dilla-ff5fa2?style=for-the-badge&logo=undertale&logoColor=white)
+
+<sub>🎀 <i>dilla > everything (except maybe root access)</i> 🎀</sub>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>

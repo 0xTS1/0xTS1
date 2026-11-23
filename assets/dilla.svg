@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" role="img" aria-label="taken by Dilla">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd1e8"/>
+      <stop offset="1" stop-color="#ffb6d5"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="420" height="200" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="418" height="198" rx="18" fill="none" stroke="#ff6fae" stroke-opacity="0.5"/>
+
+  <!-- hearts -->
+  <g fill="#ff5fa2" opacity="0.6">
+    <path d="M40 34c-4-7-16-5-16 4 0 7 16 15 16 15s16-8 16-15c0-9-12-11-16-4z"/>
+    <path d="M372 150c-3-5-12-4-12 3 0 5 12 11 12 11s12-6 12-11c0-7-9-8-12-3z" opacity="0.5"/>
+  </g>
+
+  <!-- kitty -->
+  <g transform="translate(120,96)">
+    <!-- ears -->
+    <path d="M-44 -34 L-20 -6 L-52 -2 Z" fill="#ffffff" stroke="#ff6fae" stroke-width="2"/>
+    <path d="M44 -34 L20 -6 L52 -2 Z" fill="#ffffff" stroke="#ff6fae" stroke-width="2"/>
+    <!-- head -->
+    <ellipse cx="0" cy="6" rx="52" ry="44" fill="#ffffff" stroke="#ff6fae" stroke-width="2"/>
+    <!-- eyes -->
+    <circle cx="-18" cy="2" r="4.5" fill="#3a2a33"/>
+    <circle cx="18" cy="2" r="4.5" fill="#3a2a33"/>
+    <!-- nose -->
+    <ellipse cx="0" cy="16" rx="5" ry="3.5" fill="#ffd21e"/>
+    <!-- whiskers -->
+    <g stroke="#ff9ec7" stroke-width="2" stroke-linecap="round">
+      <line x1="-24" y1="14" x2="-50" y2="8"/>
+      <line x1="-24" y1="20" x2="-50" y2="22"/>
+      <line x1="24" y1="14" x2="50" y2="8"/>
+      <line x1="24" y1="20" x2="50" y2="22"/>
+    </g>
+    <!-- bow -->
+    <g transform="translate(36,-26)">
+      <path d="M0 0 L-16 -9 L-16 9 Z" fill="#ff4f98"/>
+      <path d="M0 0 L16 -9 L16 9 Z" fill="#ff4f98"/>
+      <circle cx="0" cy="0" r="5" fill="#ff2e86"/>
+    </g>
+  </g>
+
+  <!-- text -->
+  <g font-family="'Segoe UI','Comic Sans MS',Verdana,sans-serif" text-anchor="start">
+    <text x="210" y="78" font-size="16" fill="#c2185b" font-weight="600">taken &#128149;</text>
+    <text x="210" y="112" font-size="34" fill="#ad1457" font-weight="800">Dilla &#127872;</text>
+    <text x="210" y="140" font-size="14" fill="#d81b60">my favorite notification &#128062;</text>
+  </g>
+</svg>
