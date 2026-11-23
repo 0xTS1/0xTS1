@@ -18,10 +18,11 @@
 
 ## `whoami`
 
-```bash
-$ whoami
-> im a chill guy from ID country.
-```
+<div align="center">
+
+<img src="assets/whoami.svg" alt="im a chill guy from ID country." width="560"/>
+
+</div>
 
 ---
 
